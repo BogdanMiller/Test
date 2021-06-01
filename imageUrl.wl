@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/BogdanMiller/WinlockerData/main/stock-photography-slider.jpg
+https://raw.githubusercontent.com/BogdanMiller/WinlockerData/main/woops1.png
